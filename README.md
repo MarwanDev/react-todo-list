@@ -1,3 +1,18 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+## React Todo List
+
+> A todo list web app built using React JS. It is used for adding, modyfing, set as complet and deleting todo tasks
+
+
+## Built With
+
+> React
+
+
+## Live Demo
+N/A
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
