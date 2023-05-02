@@ -1,85 +1,113 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-## React Todo List
+<div align="center">
 
-> A todo list web app built using React JS. It is used for adding, modyfing, set as complet and deleting todo tasks
+  <h3><b>To Do List: List</b></h3>
 
+</div>
 
-## Built With
+# 📗 Table of Contents
 
-> React
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
+# 📖 [To Do List] <a name="about-project"></a>
 
-## Live Demo
-N/A
+**[To do List]** is a React web app for adding, removing, modifuing and deleting TODo tasks in a list
 
-# Getting Started with Create React App
+# 🛠 Built With <a name="built-with">Technologies</a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- React
+- Linters
 
-## Available Scripts
+### Tech Stack <a name="tech-stack">React JS</a>
 
-In the project directory, you can run:
+The entire project was built with only React.
 
-### `npm start`
+# 📖 [To Do List] <a name="about-project"></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In this project:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- I added the React & CSS linters.
+- I made sure that you used the correct Gitflow.
+- I Follow our list of best practices for React & CSS.
 
-### `npm test`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- Features -->
 
-### `npm run build`
+### Key Features <a name="key-features">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **[key_feature_1]** Ability for the user to add, modify, delete and set as complete the tasks.
+- **[key_feature_2]** Dynamic Content using JS
+- **[key_feature_3]** CRUD
+  </a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- LIVE DEMO -->
 
-### `npm run eject`
+## 🚀 Live Demo <a name="live-demo"></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [Live Demo Link](https://github.com/rushemaa/to-do-list)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- GETTING STARTED -->
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 💻 Getting Started <a name="getting-started"></a>
 
-## Learn More
+To get a local copy up and running,clone this repository to your desired folder: https://github.com/MarwanDev/react-todo-list
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 👥 Authors <a name="authors"></a>
 
-### Code Splitting
+👤 **Rushema Anicet**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- GitHub: [@marwandev](https://github.com/MarwanDev)
+- Twitter: [@marwaneg](https://twitter.com/marwaneg)
+- LinkedIn: [Marwan Abdelsattar](https://www.linkedin.com/in/marwan-abdelsattar-665a59105/)
 
-### Analyzing the Bundle Size
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🔭 Future Features <a name="future-features"></a>
 
-### Making a Progressive Web App
+- **Moblie design Responsiveness**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Advanced Configuration
+## 🤝 Contributing <a name="contributing"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Contributions, issues, and feature requests are welcome!
 
-### Deployment
+Feel free to check the [issues page](https://github.com/MarwanDev/react-todo-list/issues).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### `npm run build` fails to minify
+## ⭐️ Show your support <a name="support"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you like this project please leave a comment,and I will get in touch with you
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./https://github.com/MarwanDev/react-todo-list/blob/development/LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
